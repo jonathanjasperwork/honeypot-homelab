@@ -62,12 +62,13 @@ The main objectives of this homelab are:
 Cowrie generates JSONL event logs. The logs contain individual events associated with attacker sessions for 30 days (raw log will not be published)
 
 Example log files:
-
+```
 cowrie.json.2026-09-22
 cowrie.json.2026-09-23
 cowrie.json.2026-09-24
 cowrie.json.2026-09-25
 ...
+````
 
 # Project Structure
 
