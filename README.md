@@ -70,6 +70,8 @@ cowrie.json.2026-09-25
 ...
 
 # Project Structure
+
+```
 honeypot-lab/
 │
 ├── log/
@@ -95,14 +97,17 @@ honeypot-lab/
 │   └── session-duration.txt
 │
 └── README.md
+```
 
 # Environment
 
+```
 DB_HOST={YOUR_DB_HOSTNAME}
 DB_PORT={YOUR_DB_PORT}
 DB_NAME={YOUR_DB_NAME}
 DB_USER={YOUR_DB_USER}
 DB_PASSWORD={YOUR_DB_PASSWORD}
+```
 
 # Log Import Process
 
