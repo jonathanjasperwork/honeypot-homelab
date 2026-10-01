@@ -1,4 +1,4 @@
-# Cowrie Homelab
+# Cowrie Homelab (PROJECT ONGOING..., publish all findings after October 22)
 
 ## Overview
 
